@@ -3,6 +3,11 @@
 ## Overview
 In this project, Python is used to explore data related to bike share systems for three cities in the United States: Chicago, New York City, and Washington. 
 
+## Softwares needed
+* Python 3, NumPy, and Pandas installed using Anaconda.
+* VS Code to edit text.
+* A terminal application.
+
 ## Files used
 bikeshare.py
 
