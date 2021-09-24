@@ -1,17 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Project: Explore US Bikeshare Data 
 
-### Date created
-Include the date you created this project and README file.
+## Overview
+In this project, Python is used to explore data related to bike share systems for three cities in the United States: Chicago, New York City, and Washington. 
 
-### Project Title
-Replace the Project Title
+## Files used
+bikeshare.py
 
-### Description
-Describe what your project is about and what it does
+## Credits
+* Richard Kalehoff
+    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
+    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Softwares needed
+* Python 3, NumPy, and Pandas installed using Anaconda.
+* VS Code to edit text.
+* A terminal application.
 
+## Links for the softwares tutorials
+* [Git - Reference](https://git-scm.com/docs)
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [VS Code Documentation](https://code.visualstudio.com/docs)
