@@ -11,3 +11,9 @@ bikeshare.py
     - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
     - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
 
+
+## Softwares needed
+* Python 3, NumPy, and Pandas installed using Anaconda.
+* VS Code to edit text.
+* A terminal application.
+
