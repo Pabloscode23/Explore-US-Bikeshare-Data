@@ -17,3 +17,7 @@ bikeshare.py
 * VS Code to edit text.
 * A terminal application.
 
+## Links for the softwares tutorials
+* [Git - Reference](https://git-scm.com/docs)
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [VS Code Documentation](https://code.visualstudio.com/docs)
