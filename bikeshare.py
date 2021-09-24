@@ -168,16 +168,14 @@ def user_stats(df, city):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
-
-def raw_data(df):
-    """Displays the data due filteration.
-    5 rows will added in each press"""
-    print('Press enter to see row data, press no to skip')
-    x = 0
-    while (input() != 'no'):
-        x = x+5
-        print(df.head(x))
+    x = 1
+    while True:
+        raw = input('\nWould you like to see some raw data? Enter yes or no.\n')
+        if raw.lower() == 'yes':
+            print(df[x:x+5])
+            x = x+5
+        else:
+            break
 
 
 def main():
@@ -189,7 +187,6 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df, city)
-        raw_data(df)
 
         restart = input(
             '\nWould you like to restart? Enter yes in case you want.\n')
